@@ -1,7 +1,8 @@
-// Problem - Character Distance
-// Platform - HackerRank
-// Link - https://www.hackerrank.com/contests/peacemakers-25b-blr/challenges/challenge-10-a-characters-distance/submissions/code/1400693836
-// Summary - Finding the distance between two characters.
+/*
+Problem - Character Distance
+Platform - HackerRank
+Summary - Finding the distance between two characters.
+*/
 
 #include <stdio.h>
 #include <string.h>

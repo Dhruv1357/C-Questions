@@ -1,7 +1,8 @@
-// Problem - Break a 3 Digit Number into Individual Digits
-// Platform - HackerRank
-// Link - https://www.hackerrank.com/contests/peacemakers-25b-blr/challenges/break-3-digit-number-into-individual-digits/submissions/code/1400774855
-// Summary - Breaking a 3 digit number into individual digits
+/*
+Problem - Break a 3 Digit Number into Individual Digits
+Platform - HackerRank
+Summary - Breaking a 3 digit number into individual digits
+*/
 
 #include <stdio.h>
 #include <string.h>

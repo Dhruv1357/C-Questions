@@ -1,7 +1,8 @@
-// Problem - Convert Time to Seconds
-// Platform - HackerRank
-// Link - https://www.hackerrank.com/contests/peacemakers-25b-blr/challenges/convert-time-into-seconds/submissions/code/1400694006
-// Summary - Converting hours,minutes and seconds to only seconds.
+/*
+Problem - Convert Time to Seconds
+Platform - HackerRank
+Summary - Converting hours,minutes and seconds to only seconds.
+*/
 
 #include <stdio.h>
 #include <string.h>

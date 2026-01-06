@@ -1,7 +1,6 @@
 /*
 Problem - Same Last Digits
 Platform - HackerRank
-Link - https://www.hackerrank.com/contests/peacemakers-25b-blr/challenges/check-if-two-numbers-have-same-last-digit/submissions/code/1401413382
 Summary - Checking if two numbers have same last digtis or not
 */
 

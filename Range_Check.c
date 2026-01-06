@@ -1,7 +1,6 @@
 /*
 Problem - Range Check
 Platform - HackerRank
-Link - https://www.hackerrank.com/contests/peacemakers-25b-blr/challenges/check-if-a-number-is-within-a-given-range/submissions/code/1401413712
 Summary - Checking whether the given input is 'In Range' or 'Out of Range' when the range is also provided by the user
 */
 
@@ -22,6 +21,6 @@ int main() {
     else{
         printf("Out of Range");
     }
-      
+
     return 0;
 }

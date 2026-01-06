@@ -1,7 +1,8 @@
-// Problem - Half the number
-// Platform - HackerRank
-// Link - https://www.hackerrank.com/contests/peacemakers-25b-blr/challenges/challenge-16-a-half-the-number/submissions/code/1400791979
-// Summary - Printing the half value of the given number
+/*
+Problem - Half the number
+Platform - HackerRank
+Summary - Printing the half value of the given number
+*/
 
 #include <stdio.h>
 #include <string.h>

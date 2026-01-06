@@ -1,7 +1,8 @@
-// Problem - Area of Rectangle
-// Platform - HackerRank
-// Link - https://www.hackerrank.com/contests/peacemakers-25b-blr/challenges/area-of-a-rectangle-7/submissions/code/1400739688
-// Summary - Finding the area of a rectangle.
+/*
+Problem - Area of Rectangle
+Platform - HackerRank
+Summary - Finding the area of a rectangle.
+*/
 
 #include <stdio.h>
 #include <string.h>

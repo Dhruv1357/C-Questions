@@ -1,7 +1,8 @@
-// Problem - Data Type Ranges
-// Platform - HackerRank
-// Link - https://www.hackerrank.com/contests/peacemakers-25b-blr/challenges/challenge-19-a-data-type-ranges/submissions/code/1400740204
-// Summary - Printing the range of all data types
+/*
+Problem - Data Type Ranges
+Platform - HackerRank
+Summary - Printing the range of all data types
+*/
 
 #include <stdio.h>
 #include <string.h>

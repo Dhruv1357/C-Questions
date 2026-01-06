@@ -1,8 +1,9 @@
-// Problem - 5th of a joined number
-// Platform - HackerRank
-// Link - https://www.hackerrank.com/contests/peacemakers-25b-blr/challenges/build-4-digit-number-from-4-inputs/submissions/code/1400823782
-/* Summary - Combining four individual numbers to create a single number and then multiplying it with 5 and 
-             printing the output*/
+/* 
+Problem - 5th of a joined number
+Platform - HackerRank
+Summary - Combining four individual numbers to create a single number and then multiplying it with 5 and 
+             printing the output
+*/
 
 #include <stdio.h>
 #include <string.h>

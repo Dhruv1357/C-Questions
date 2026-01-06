@@ -1,7 +1,6 @@
 /*
 Problem - Discounted Price
 Platform - HackerRank
-Link - https://www.hackerrank.com/contests/peacemakers-25b-blr/challenges/print-discounted-price/submissions/code/1401413600
 Summary - Calculating the discount offered based on the price and discount percentage.
 */
 

@@ -1,7 +1,8 @@
-// Problem - lowercase to UPPERCASE
-// Platform - HackerRank
-// Link - https://www.hackerrank.com/contests/peacemakers-25b-blr/challenges/challenge-8-a-lowercase-to-uppercase
-// Summary - Converting lowercase characters to UPPERCASE characters.
+/*
+Problem - lowercase to UPPERCASE
+Platform - HackerRank
+Summary - Converting lowercase characters to UPPERCASE characters.
+*/
 
 #include <stdio.h>
 #include <string.h>

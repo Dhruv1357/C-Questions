@@ -1,7 +1,8 @@
-// Problem - Basic Data Types in C
-// Platform - HackerRank
-// Link - https://www.hackerrank.com/contests/peacemakers-25b-blr/challenges/basic-data-types-c/submissions/code/1400823491
-// Summary - Printing different inputs in different data types
+/*
+Problem - Basic Data Types in C
+Platform - HackerRank
+Summary - Printing different inputs in different data types
+*/
 
 #include <stdio.h>
 #include <string.h>

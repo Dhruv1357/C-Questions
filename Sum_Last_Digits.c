@@ -1,7 +1,8 @@
-// Problem - Sum Last Digits
-// Platform - HackerRank
-// Link - https://www.hackerrank.com/contests/peacemakers-25b-blr/challenges/sum-of-last-digits-of-two-numbers/submissions/code/1400739598
-// Summary - Finding the sum of the last digits of the given two numbers.
+/*
+Problem - Sum Last Digits
+Platform - HackerRank
+Summary - Finding the sum of the last digits of the given two numbers.
+*/
 
 #include <stdio.h>
 #include <string.h>

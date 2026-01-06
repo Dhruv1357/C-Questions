@@ -1,7 +1,6 @@
 /* 
 Problem - Convert 24-Hour Time to 12-Hour Format
 Platform - HackerRank
-Link - https://www.hackerrank.com/contests/peacemakers-25b-blr/challenges/convert-24-hour-time-to-12-hour-format-1
 Summary - Converting the time in 24 hour format to 12 hour format.
 */
 
