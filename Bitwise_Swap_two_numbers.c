@@ -13,6 +13,6 @@ int main() {
     b=a^b;
     a=a^b;
     printf("%d\n%d",a,b);
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
+ 
     return 0;
 }
