@@ -1,7 +1,7 @@
 /*
 Problem - Bitwise Toggle i-th Bit
 Platform - HackerRank
-Summary - Toggling the i-th bit of a number where the number and the i-th bit both are given by the user.
+Summary - Toggling the i-th bit of a number using bitwise operations where the number and the i-th bit both are given by the user.
 */
 
 #include <stdio.h>
