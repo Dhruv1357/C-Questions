@@ -1,7 +1,7 @@
 /*
 Problem - Arrays Check if Array is Sorted
 Platform - HackerRank
-Summary - Checking if the array is sorted in either ascending or descending order or not
+Summary - Checking if the array is sorted or not
 */
 
 #include <stdio.h>
