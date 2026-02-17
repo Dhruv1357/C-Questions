@@ -1,5 +1,5 @@
 /*
-Problem - Arrays_Compare Range and Median
+Problem - Arrays Compare Range and Median
 Platform - HackerRank
 Summary - Comparing the range and the median of a given array
 */

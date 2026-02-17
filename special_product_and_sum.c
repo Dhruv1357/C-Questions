@@ -1,5 +1,5 @@
 /*
-Problem - Arrays_Check Special Product vs Sum Condition
+Problem - Arrays Check Special Product vs Sum Condition
 Platform - HackerRank
 Summary - Checking if the product of the second largest and first smallest element is greater than the sum of the second smallest and first largest element.
 */
