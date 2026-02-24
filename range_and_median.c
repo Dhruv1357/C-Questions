@@ -45,7 +45,6 @@ int parse_int(char*);
  *
  *     return s;
  * }
-
  */
 char* is_range_greater_than_median(int arr_count, int* arr) 
 {
