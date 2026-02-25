@@ -40,7 +40,7 @@ int parse_int(char*);
  *
  * char* return_string_using_dynamic_allocation() {
  *     char* s = malloc(100 * sizeof(char));
- 
+
  *     s = "dynamic allocation of string";
 
  *     return s;
