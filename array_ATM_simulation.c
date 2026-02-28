@@ -15,7 +15,6 @@ int main() {
     short userpin;
     int useracc,userbalance=0,userdata=-1;
     
-
     
     if(N>0)
     {
