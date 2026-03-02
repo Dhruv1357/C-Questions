@@ -9,7 +9,8 @@ Summary - Finding the average of all the elements of a given array
 #include <math.h>
 #include <stdlib.h>
 
-int main() {
+int main() 
+{
     int n;
     scanf("%d",&n);
     long long a[n];
