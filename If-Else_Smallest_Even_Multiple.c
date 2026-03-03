@@ -21,6 +21,7 @@ Summary - Printing the smallest positive integer that is a multiple of both 2 an
         }
         return 0;
     }
+    
 int main() {
     unsigned short n;
     scanf("%hu",&n);
