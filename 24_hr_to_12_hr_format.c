@@ -14,7 +14,7 @@ Summary - Converting the time in 24 hour format to 12 hour format.
         if(h==0){
         printf("12:%02d AM",m);
     }
-    
+
     else if(h==12){
         printf("%d:%02d PM",h,m);
     }
@@ -27,6 +27,7 @@ Summary - Converting the time in 24 hour format to 12 hour format.
         }
         return 0;
     }
+    
 int main(){
     int h;
     int m;
