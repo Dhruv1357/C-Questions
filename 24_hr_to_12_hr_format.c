@@ -10,6 +10,7 @@ Summary - Converting the time in 24 hour format to 12 hour format.
 #include <stdlib.h>
 
     int conv(int h,int m){
+        
         int conv_hr=h%12;
         if(h==0){
         printf("12:%02d AM",m);
