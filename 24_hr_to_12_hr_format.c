@@ -27,8 +27,9 @@ Summary - Converting the time in 24 hour format to 12 hour format.
         }
         return 0;
     }
-    
+
 int main(){
+    
     int h;
     int m;
     scanf("%d %d",&h,&m);
