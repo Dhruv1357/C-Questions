@@ -24,7 +24,10 @@ int main()
     }
     
     for(int i=0;i<=n-1;i++)
+    {
         sum+=a[i];
+    }
+    
     res=sum/n;
     printf("%lf",res);
   
