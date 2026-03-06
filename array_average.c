@@ -11,7 +11,7 @@ Summary - Finding the average of all the elements of a given array
 
 int main() 
 {
-    
+
     int n;
     scanf("%d",&n);
     long long a[n];
@@ -19,7 +19,9 @@ int main()
     double sum=0.00;
     
     for(int i=0;i<=n-1;i++)
+    {
         scanf("%lld",&a[i]);
+    }
     
     for(int i=0;i<=n-1;i++)
         sum+=a[i];
