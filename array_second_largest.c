@@ -46,7 +46,7 @@ int findSecondLargest(int arr[], int n)
 
 int main() 
 {
-    
+
     int n;
     scanf("%d", &n);
     
@@ -56,5 +56,6 @@ int main()
     }
 
     printf("%d\n", findSecondLargest(arr, n));
+    
     return 0;
 }
