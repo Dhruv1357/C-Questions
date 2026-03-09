@@ -9,7 +9,8 @@ Summary - Checking if two numbers have same last digtis or not
 #include <math.h>
 #include <stdlib.h>
 
-    int check(int a,int b){
+    int check(int a,int b)
+    {
         if((a%10)==(b%10))
         {
             printf("YES");
