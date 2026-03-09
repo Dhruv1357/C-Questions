@@ -18,6 +18,7 @@ Summary - Checking if two numbers have same last digtis or not
         else{
           printf("NO");
         }
+        
         return 0;
     }
 int main() {
