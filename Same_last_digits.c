@@ -21,6 +21,7 @@ Summary - Checking if two numbers have same last digtis or not
 
         return 0;
     }
+    
 int main() 
 {
     int a;
