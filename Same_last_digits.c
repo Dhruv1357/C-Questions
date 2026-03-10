@@ -10,6 +10,7 @@ Summary - Checking if two numbers have same last digtis or not
 #include <stdlib.h>
 
     int check(int a,int b)
+    
     {
         if((a%10)==(b%10))
         {
@@ -21,7 +22,7 @@ Summary - Checking if two numbers have same last digtis or not
 
         return 0;
     }
-    
+
 int main() 
 {
     int a;
