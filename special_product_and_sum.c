@@ -50,6 +50,7 @@ int parse_int(char*);
 
 char* check_special_condition(int arr_count, int* arr) 
 {
+    
     int largest,secondlargest,smallest,secondsmallest;
     
     largest=secondlargest=smallest=secondsmallest=arr[0];
