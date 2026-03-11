@@ -94,7 +94,7 @@ char* check_special_condition(int arr_count, int* arr)
             return f;
         }
     }
-    
+
     static char invalid[] = "False";
     return invalid;
 }
@@ -172,6 +172,7 @@ char* readline() {
     }
 
     return data;
+    
 }
 
 char* ltrim(char* str) {
