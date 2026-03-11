@@ -50,7 +50,7 @@ int parse_int(char*);
 
 char* check_special_condition(int arr_count, int* arr) 
 {
-    
+
     int largest,secondlargest,smallest,secondsmallest;
     
     largest=secondlargest=smallest=secondsmallest=arr[0];
@@ -94,6 +94,7 @@ char* check_special_condition(int arr_count, int* arr)
             return f;
         }
     }
+    
     static char invalid[] = "False";
     return invalid;
 }
