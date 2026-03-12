@@ -192,7 +192,8 @@ char* ltrim(char* str)
     return str;
 }
 
-char* rtrim(char* str) {
+char* rtrim(char* str) 
+{
     if (!str) {
         return '\0';
     }
