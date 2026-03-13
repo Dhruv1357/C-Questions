@@ -204,7 +204,8 @@ char* rtrim(char* str)
 
     char* end = str + strlen(str) - 1;
 
-    while (end >= str && isspace(*end)) {
+    while (end >= str && isspace(*end)) 
+    {
         end--;
     }
 
