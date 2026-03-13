@@ -198,7 +198,8 @@ char* rtrim(char* str)
         return '\0';
     }
 
-    if (!*str) {
+    if (!*str) 
+    {
         return str;
     }
 
