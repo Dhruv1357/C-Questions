@@ -150,7 +150,8 @@ char* readline()
 
         data = realloc(data, alloc_length);
 
-        if (!data) {
+        if (!data) 
+        {
             data = '\0';
 
             break;
