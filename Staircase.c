@@ -140,7 +140,8 @@ char* rtrim(char* str) {
     return str;
 }
 
-int parse_int(char* str) {
+int parse_int(char* str) 
+{
     char* endptr;
     int value = strtol(str, &endptr, 10);
 
