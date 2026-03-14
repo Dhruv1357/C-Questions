@@ -123,7 +123,8 @@ int main()
     return 0;
 }
 
-char* readline() {
+char* readline() 
+{
     size_t alloc_length = 1024;
     size_t data_length = 0;
 
