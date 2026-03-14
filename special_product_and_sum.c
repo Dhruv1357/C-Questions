@@ -107,7 +107,8 @@ int main()
 
     int* arr = malloc(N * sizeof(int));
 
-    for (int i = 0; i < N; i++) {
+    for (int i = 0; i < N; i++) 
+    {
         int arr_item = parse_int(ltrim(rtrim(readline())));
 
         *(arr + i) = arr_item;
