@@ -139,7 +139,6 @@ char* rtrim(char* str) {
 
     return str;
 }
-
 int parse_int(char* str) 
 {
     char* endptr;
