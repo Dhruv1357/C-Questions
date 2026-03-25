@@ -71,7 +71,8 @@ char* readline()
 
         data_length += strlen(cursor);
 
-        if (data_length < alloc_length - 1 || data[data_length - 1] == '\n') {
+        if (data_length < alloc_length - 1 || data[data_length - 1] == '\n') 
+        {
             break;
         }
 
