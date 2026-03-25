@@ -88,7 +88,8 @@ char* readline()
         }
     }
 
-    if (data[data_length - 1] == '\n') {
+    if (data[data_length - 1] == '\n') 
+    {
         data[data_length - 1] = '\0';
 
         data = realloc(data, data_length);
