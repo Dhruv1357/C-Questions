@@ -94,7 +94,8 @@ char* readline()
 
         data = realloc(data, data_length);
 
-        if (!data) {
+        if (!data) 
+        {
             data = '\0';
         }
     } 
