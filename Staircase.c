@@ -97,7 +97,8 @@ char* readline()
         if (!data) {
             data = '\0';
         }
-    } else 
+    } 
+    else 
     {
         data = realloc(data, data_length + 1);
 
