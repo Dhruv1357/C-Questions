@@ -99,7 +99,7 @@ char* readline()
             data = '\0';
         }
     } 
-    
+
     else 
     {
         data = realloc(data, data_length + 1);
@@ -115,7 +115,8 @@ char* readline()
     return data;
 }
 
-char* ltrim(char* str) {
+char* ltrim(char* str) 
+{
     if (!str) {
         return '\0';
     }
