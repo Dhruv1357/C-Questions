@@ -99,6 +99,7 @@ char* readline()
             data = '\0';
         }
     } 
+    
     else 
     {
         data = realloc(data, data_length + 1);
