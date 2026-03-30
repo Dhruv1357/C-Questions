@@ -117,7 +117,8 @@ char* readline()
 
 char* ltrim(char* str) 
 {
-    if (!str) {
+    if (!str) 
+    {
         return '\0';
     }
 
