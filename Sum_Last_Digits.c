@@ -16,7 +16,7 @@ int sumLastDigits(unsigned int a, unsigned int b)
     short res=(last1+last2);
     printf("The sum of last digits is: %hd",res);
     return res;
-    
+
 }
 int main() 
 {
@@ -26,4 +26,5 @@ int main()
     sumLastDigits(a,b);
   
     return 0;
+    
 }
