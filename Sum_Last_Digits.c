@@ -9,7 +9,8 @@ Summary - Finding the sum of the last digits of the given two numbers.
 #include <math.h>
 #include <stdlib.h>
 
-int sumLastDigits(unsigned int a, unsigned int b){
+int sumLastDigits(unsigned int a, unsigned int b)
+{
     short last1=a%10;
     short last2=b%10;
     short res=(last1+last2);
