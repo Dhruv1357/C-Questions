@@ -18,6 +18,7 @@ int sumLastDigits(unsigned int a, unsigned int b)
     return res;
 
 }
+
 int main() 
 {
 
