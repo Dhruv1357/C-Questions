@@ -20,6 +20,7 @@ int sumLastDigits(unsigned int a, unsigned int b)
 }
 int main() 
 {
+    
     unsigned int a;
     unsigned int b;
     scanf("%u %u",&a,&b);
