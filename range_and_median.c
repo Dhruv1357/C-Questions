@@ -50,7 +50,7 @@ char* is_range_greater_than_median(int arr_count, int* arr)
     int max,min,median,range,temp;
     
     max=arr[0],min=arr[0];
-    
+
     for(int i=0;i<arr_count;i++)
     {
         if(max<arr[i])
@@ -58,6 +58,7 @@ char* is_range_greater_than_median(int arr_count, int* arr)
         if(min>arr[i])
             min=arr[i];
     }
+    
     range=max-min;
     
     //Arranging the array in Ascending order
