@@ -46,10 +46,11 @@ int parse_int(char*);
  */
 char* is_range_greater_than_median(int arr_count, int* arr) 
 {
-    
+
     int max,min,median,range,temp;
     
     max=arr[0],min=arr[0];
+    
     for(int i=0;i<arr_count;i++)
     {
         if(max<arr[i])
