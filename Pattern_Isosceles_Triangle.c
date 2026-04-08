@@ -7,7 +7,6 @@ Summary - Printing an isosceles triangle pattern based on the number of rows giv
 #include <stdio.h>
 
 int main() {
-
     int n;
     scanf("%d",&n);
     
