@@ -3,7 +3,6 @@ Problem - Pattern Square with #
 Platform - HackerRank
 Summary - Printing a square with edges printed with * and filled with #
 */
-
 #include <stdio.h>
 
 int main() {
