@@ -21,6 +21,7 @@ int main() {
             }
             printf("\n");
         }
+        
     }
     else
         printf("Shape Not Possible");
