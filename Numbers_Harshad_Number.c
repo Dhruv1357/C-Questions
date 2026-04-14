@@ -9,7 +9,8 @@ Summary - Classifying whether the given number is a Harshad number or not
 #include <math.h>
 #include <stdlib.h>
 
-int main() {
+int main() 
+{
     
     int sum=0, n, new, updated;
     scanf("%d",&n);
