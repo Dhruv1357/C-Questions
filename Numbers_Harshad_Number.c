@@ -25,6 +25,7 @@ int main()
             break;
         n=n/10;
     }
+    
     if(num%sum==0)
         printf("%d is a harshad number",num);
     else
