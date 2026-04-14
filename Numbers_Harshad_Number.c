@@ -11,8 +11,7 @@ Summary - Classifying whether the given number is a Harshad number or not
 
 int main() {
     
-    int sum=0, n;
-    int new;
+    int sum=0, n, new;
     int updated;
     scanf("%d",&n);
     int num=n;
