@@ -13,6 +13,7 @@ int main()
 {
     
     int sum=0, n, new, updated;
+    
     scanf("%d",&n);
     int num=n;
 
