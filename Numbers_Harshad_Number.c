@@ -23,9 +23,10 @@ int main()
         updated=n%10;
 
         sum+=updated;
-        
+
         if(new==0)
             break;
+            
         n=n/10;
     }
     
