@@ -13,7 +13,7 @@ int main()
 {
     
     int sum=0, n, new, updated;
-    
+
     scanf("%d",&n);
     int num=n;
 
@@ -21,6 +21,7 @@ int main()
     {
         new=n/10;
         updated=n%10;
+        
         sum+=updated;
         if(new==0)
             break;
