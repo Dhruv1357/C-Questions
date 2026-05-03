@@ -21,8 +21,9 @@ int main()
     {
         new=n/10;
         updated=n%10;
-        
+
         sum+=updated;
+        
         if(new==0)
             break;
         n=n/10;
