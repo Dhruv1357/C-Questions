@@ -11,6 +11,7 @@ int main() {
     int n;
     int max=0;
     int min=0;
+
     scanf("%d",&n);
     int a[n];
     
