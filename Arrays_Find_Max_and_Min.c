@@ -27,6 +27,7 @@ int main() {
     {
         if(max<a[i])
             max=a[i];
+
         if(min>a[i])
             min=a[i];
     }
