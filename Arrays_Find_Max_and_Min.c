@@ -31,7 +31,7 @@ int main() {
         if(min>a[i])
             min=a[i];
     }
-    
+   
     printf("%d %d",max,min);
         
     return 0;
