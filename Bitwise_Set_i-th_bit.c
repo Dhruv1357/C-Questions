@@ -9,6 +9,7 @@ Summary - Setting the i-th bit of a number 'n' where both 'n' and 'i' are provid
 int main() {
     long long N;
     short i;
+
     scanf("%lld %hd",&N,&i);
     
     long long N_new=N|(1<<i);
