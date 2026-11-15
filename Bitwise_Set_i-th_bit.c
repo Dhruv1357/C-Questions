@@ -13,6 +13,7 @@ int main() {
     scanf("%lld %hd",&N,&i);
     
     long long N_new=N|(1<<i);
+
     printf("%lld",N_new);
     return 0;
 }
