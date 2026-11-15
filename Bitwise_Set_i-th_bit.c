@@ -13,6 +13,5 @@ int main() {
     
     long long N_new=N|(1<<i);
     printf("%lld",N_new);
-
     return 0;
 }
